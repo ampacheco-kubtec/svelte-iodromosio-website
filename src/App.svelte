@@ -1,5 +1,6 @@
 <script>
-	let name = 'world';
+	import State from './components/States.svelte';
+
 </script>
 
-<h1>Hello {name}! v1.91.099</h1>
+<State></State>
