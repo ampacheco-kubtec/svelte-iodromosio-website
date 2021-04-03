@@ -1,4 +1,4 @@
-const states = [
+[
     {   
         "shortName": "AL", 
         "longName": "Alabama"},
@@ -176,6 +176,4 @@ const states = [
     {   
         "shortName": "WY", 
         "longName": "Wyoming"}
-];
-
-export { states };
+]
